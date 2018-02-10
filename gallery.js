@@ -1,6 +1,6 @@
 var bodyTag = document.querySelector('body');
 var bigpic = document.querySelector('#big');
-var pictures = ["one.jpg","two.jpeg","three.jpg","four.jpg","five.jpg"];
+var pictures = ["one.jpg","two.jpg","three.jpg","four.jpg","five.jpg"];
 
 var small=document.getElementById("smallpic");
 
