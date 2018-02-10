@@ -1,15 +1,16 @@
-body{
-    background:rgb(150,150,200);
-    padding:0;
-    margin:0;
+heading{
+    font-family: "Adobe Caslon Pro";
+    color: red;
+    font-size: 50px;
+    margin-left:450px;
 }
 #bigpic{
     padding:0 auto;
     margin-bottom:0px;
 }
 #big{
-    margin:auto 250px;
-    width:50%;
+    margin:auto 100px;
+    width:1000px;
     height:400px;
 }
 #smallpic{
